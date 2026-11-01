@@ -68,7 +68,7 @@ The market landscape is **moderately concentrated** at the infrastructure layer�
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | Stars | Category & Architecture Highlights |
+| Project | GitHub_Stars | Category & Architecture Highlights |
 | :--- | :--- | :--- |
 | **[FastAPI](https://github.com/tiangolo/fastapi)** | [![FastAPI Stars](https://img.shields.io/github/stars/tiangolo/fastapi?style=social&color=white)](https://github.com/tiangolo/fastapi/stargazers) | ⚡ High-performance, async Python web and API framework heavily leveraged as the entry runtime for microservices and function serving. |
 | **[vLLM](https://github.com/vllm-project/vllm)** | [![vLLM Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) | 🚀 High-throughput, memory-efficient LLM serving and inference runtime engine featuring PagedAttention and Python execution hooks. |
@@ -112,7 +112,7 @@ Contributions are always welcome! Here is how you can help expand this list:
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-runtime`).
 3. 📝 **Add/edit entries in `README.md`** following the existing table formatting.
-4. 🔍 **Ensure entries include**: Official website/repo link, verified starting pricing/limits, star count, and a concise technical description.
+4. 🔍 **Ensure entries include**: Official website/repo link, verified starting pricing/limits, Stars_Count, and a concise technical description.
 5. 🚀 **Submit a Pull Request** with a brief summary of the added runtime or platform.
 
 ---
